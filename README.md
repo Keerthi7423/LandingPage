@@ -3,7 +3,7 @@
 A clean and beginner-friendly **HTML + CSS landing page** built for learning and small demo projects.  
 This project shows how to structure a basic website using semantic HTML and simple CSS styling.
 
-Live Demo → https://your-demo-link.netlify.app/  
+Live Demo → https://landingpagekeerthi.netlify.app/  
 (Replace with your own Netlify/Vercel link)
 
 ---
@@ -12,7 +12,7 @@ Live Demo → https://your-demo-link.netlify.app/
 
 Add your screenshot here:
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./Screenshot%20(428).png)
 
 If you don’t have a screenshot yet:
 - Open your site in the browser  
